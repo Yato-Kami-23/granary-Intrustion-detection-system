@@ -1,0 +1,1 @@
+tensorflow librosa sounddevice numpy scipy pygame scikit-learn
